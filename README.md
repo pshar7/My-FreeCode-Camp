@@ -1,2 +1,2 @@
 # My-FreeCode-Camp
-All the Info about my Free Code Camp exercises
+Wiki page while I am learning programming with the help of freecodecamp.
